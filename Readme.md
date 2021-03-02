@@ -11,6 +11,6 @@
     - [Percabangan PHP](docs/control_structures/condition_statement/control_structures_1.md)
     - [Codelab Percabangan PHP](docs/control_structures/condition_statement/codelab_2.md)
     - [Perulangan PHP](docs/control_structures/loops/control_structures_2.md)
-    - [Code Perulangan PHP](docs/control_structures/loops/codelab_1.md)
+    - [Code Perulangan PHP](docs/control_structures/loops/codelab_3.md)
 - [Fungsi PHP](docs/functions.md)
 - [Form Handling PHP](docs/form_handling/form_handling.md)

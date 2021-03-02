@@ -1,0 +1,16 @@
+# PHP Dasar
+
+- [Pengenalan PHP](docs/introduction_php.md)
+- [PHP Fundamental](docs/php_fundamental/php_fundamental.md)
+    - [Syntax Dasar PHP](docs/php_fundamental/basic_syntax/basic_syntax.md)
+    - [Variabel PHP](docs/php_fundamental/variables/variables.md)
+    - [Tipe Data PHP](docs/php_fundamental/data_types/data_types.md)
+    - [Operator PHP](docs/php_fundamental/operators/operators.md)
+    - [Codelab Fundamental PHP](docs/php_fundamental/codelab_1.md)
+- [Struktur Kendali PHP](docs/control_structures.md)
+    - [Percabangan PHP](docs/condition_statement/control_structures_1.md)
+    - [Codelab Percabangan PHP](docs/condition_statement/codelab_2.md)
+    - [Perulangan PHP](docs/loops/control_structures_2.md)
+    - [Code Perulangan PHP](docs/loops/codelab_1.md)
+- [Fungsi PHP](docs/functions.md)
+- [Form Handling PHP](docs/form_handling/form_handling.md)

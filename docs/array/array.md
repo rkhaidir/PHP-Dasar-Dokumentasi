@@ -105,7 +105,7 @@ $makanan[] = "Ayam Goreng";
 
 Apabila kita menambahkan pada indeks yang sudah memiliki isi, maka isinya akan ditimpa dengan yang baru.
 
-# Array Asosiatif
+## Array Asosiatif
 
 Array asosiatif adalah array yang indeksnya tidak menggunakan nomer atau angka. Indeks array asosiatif berbentuk kata kunci.
 
